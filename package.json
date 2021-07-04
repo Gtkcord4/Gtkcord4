@@ -1,0 +1,13 @@
+{
+  "name": "gtkcord4",
+  "version": "1.0.0",
+  "description": "An open source discord client made with gtk and nodejs.",
+  "main": "build/src/main.js",
+  "repository": "https://github.com/Gtkcord4/Gtkcord4",
+  "author": "TheBlueOompaLoompa",
+  "license": "GPL-3.0",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
